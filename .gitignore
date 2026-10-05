@@ -1,0 +1,17 @@
+# Simulation waveform dumps
+*.vcd
+*.fst
+*.lxt
+*.wcfg
+
+# Python cached files
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary simulation files
+waveform.vcd
+synthetic_fingerprint.bmp
